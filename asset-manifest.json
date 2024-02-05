@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fluir-project-1-paint-ecommerce/static/css/main.7acaea2f.css",
+    "main.js": "/Fluir-project-1-paint-ecommerce/static/js/main.07d3183d.js",
+    "index.html": "/Fluir-project-1-paint-ecommerce/index.html",
+    "main.7acaea2f.css.map": "/Fluir-project-1-paint-ecommerce/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Fluir-project-1-paint-ecommerce/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
